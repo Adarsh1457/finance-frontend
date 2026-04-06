@@ -1,0 +1,14 @@
+:root {
+  --color-primary: #2563eb;
+  --color-income: #16a34a;
+  --color-expense: #dc2626;
+  --color-neutral: #64748b;
+  --color-bg: #f8fafc;
+  --color-card: #ffffff;
+  --color-border: #e2e8f0;
+  --color-text: #1e293b;
+  --color-text-muted: #94a3b8;
+  --radius: 8px;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --sidebar-width: 240px;
+}
